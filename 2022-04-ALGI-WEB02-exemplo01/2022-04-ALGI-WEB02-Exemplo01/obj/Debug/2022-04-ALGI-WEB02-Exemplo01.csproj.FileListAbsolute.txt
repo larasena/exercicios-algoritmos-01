@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\bin\Debug\2022-04-ALGI-WEB02-Exemplo01.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\bin\Debug\2022-04-ALGI-WEB02-Exemplo01.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\bin\Debug\2022-04-ALGI-WEB02-Exemplo01.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\obj\Debug\2022-04-ALGI-WEB02-Exemplo01.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\obj\Debug\2022-04-ALGI-WEB02-Exemplo01.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\obj\Debug\2022-04-ALGI-WEB02-Exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\obj\Debug\2022-04-ALGI-WEB02-Exemplo01.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\2022-04-ALGI-WEB02-Exemplo01\2022-04-ALGI-WEB02-Exemplo01\obj\Debug\2022-04-ALGI-WEB02-Exemplo01.pdb

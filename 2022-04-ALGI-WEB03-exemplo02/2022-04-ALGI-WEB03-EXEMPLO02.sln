@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2022-04-ALGI-WEB03-EXEMPLO02", "2022-04-ALGI-WEB03-EXEMPLO02\2022-04-ALGI-WEB03-EXEMPLO02.csproj", "{989C4C18-BE37-43EF-A97C-FE8E2BDDC36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989C4C18-BE37-43EF-A97C-FE8E2BDDC36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989C4C18-BE37-43EF-A97C-FE8E2BDDC36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989C4C18-BE37-43EF-A97C-FE8E2BDDC36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989C4C18-BE37-43EF-A97C-FE8E2BDDC36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71307AE-B3D1-48D2-A366-C5337C28B3D0}
+	EndGlobalSection
+EndGlobal

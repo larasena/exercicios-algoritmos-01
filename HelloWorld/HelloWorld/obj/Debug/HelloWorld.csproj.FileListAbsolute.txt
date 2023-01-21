@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

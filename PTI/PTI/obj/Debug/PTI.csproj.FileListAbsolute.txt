@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\bin\Debug\PTI.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\bin\Debug\PTI.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\bin\Debug\PTI.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\obj\Debug\PTI.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\obj\Debug\PTI.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\obj\Debug\PTI.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\obj\Debug\PTI.exe
+C:\Users\laraf\OneDrive\Documentos\algoritimos-01\PTI\PTI\obj\Debug\PTI.pdb
